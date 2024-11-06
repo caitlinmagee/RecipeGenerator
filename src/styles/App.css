@@ -1,0 +1,22 @@
+.App {
+  text-align: center;
+}
+
+.app-header {
+    background: linear-gradient(90deg, #3a7bd5, #00d2ff);
+    padding: 0 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 64px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.header-title {
+    color: white;
+    font-size: 1.8rem;
+    font-weight: 600;
+    margin: 0;
+    padding: 10px 0;
+    text-align: center;
+}
